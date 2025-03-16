@@ -7,6 +7,14 @@
 - https://tailwindcss.com/plus/ui-blocks/ecommerce/components/product-lists
 - https://nitro.build/guide/websocket
 
+# What you'll build:
+
+- Websocket based chat with LLM about shop's products
+- Nuxt 3 Starter with Nuxt UI, Tailwind CSS, and Nitro
+- OpenAI Responses API for generating responses
+
+![Screenshot](./img.png)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
